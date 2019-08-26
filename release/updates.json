@@ -4,7 +4,7 @@
 			"open_url": "",
 			"latest_version": "1.0",
 			"issue_date": "2019/08/12",
-			"download_baseurl"; "https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0",
+			"download_baseurl": "https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0",
 			"download_url": [
 				"/png_1.png",
 				"/png_2.png",
