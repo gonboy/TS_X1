@@ -4,13 +4,14 @@
 			"open_url": "",
 			"latest_version": "1.0",
 			"issue_date": "2019/08/12",
+			"size" : 10234,
 			"download_baseurl": "https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0",
 			"download_url": [
-				"/png_1.png",
-				"/png_2.png",
-				"/png_3.png",
-				"/img/png_1.png",
-				"/img/png_1.png"
+				"a8c4b738e1f56f7082c37abfab2f3a7c:/png_1.png",
+				"a8c4b738e1f56f7082c37abfab2f3a7c:/png_2.png",
+				"a8c4b738e1f56f7082c37abfab2f3a7c:/png_3.png",
+				"a8c4b738e1f56f7082c37abfab2f3a7c:/img/png_1.png",
+				"a8c4b738e1f56f7082c37abfab2f3a7c:/img/png_1.png"
 			],
 			"changelog": {
 				"n__zh_CN": "---- 中文(中国)",
