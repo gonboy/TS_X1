@@ -11,7 +11,9 @@
 			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/img/png-1.png",
 			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/img/png-1.png"
 		],
-      "changelog": "This is an example changelog for Windows. Go on...",
+      "changelog": 
+            "Ver 1.0 : 2019/08/16"
+            "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
     "osx": {
