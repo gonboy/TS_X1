@@ -1,48 +1,86 @@
 {
-  "updates": {
-    "windows": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": 
-		[	
-			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/png-1.png",
-			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/png-2.png",
-			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/png-3.png",
-			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/img/png-1.png",
-			"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/img/png-1.png"
-		],
-      "changelog": 
-            "Ver 1.0 : 2019/08/16"
-            "This is an example changelog for Windows. Go on...",
-      "mandatory": true
-    },
-    "osx": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
-    },
-    "linux": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Linux. Go on...",
-      "mandatory": true
-    },
-    "ios": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for iOS. Go on...",
-      "mandatory": true
-    },
-    "android": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Android. Go on...",
-      "mandatory": true
-    }
-  }
+	"updates": {
+		"windows": {
+			"open_url": "",
+			"latest_version": "1.0",
+			"issue_date": "2019/08/12",
+			"download_url": [
+				"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/png_1.png",
+				"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/png_2.png",
+				"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/png_3.png",
+				"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/img/png_1.png",
+				"https://raw.githubusercontent.com/gonboy/downloader/master/release/V1.0/img/png_1.png"
+			],
+			"changelog": {
+				"n_zh_CN": "---- 中文(中国)",
+				"lang_zh_CN": [
+					"   fix: 1. 修改了部分bug",
+					"        2. 修改了无法启动的问题",
+					"",
+					"   add: 1. 增加日志存储功能",
+					"        2. 恢复了查找功能"
+				],
+				"n_zn_HK": "---- 中文(香港)",
+				"lang_zh_HK": [],
+				"n_zh_TW": "---- 中文(台湾)",
+				"lang_zh_TW": [],
+				"n_CN": "---- 日文",
+				"lang_ja": [],
+				"n_ko": "---- 朝鲜文",
+				"lang_ko": [],
+				"n_en": "---- 英文",
+				"lang_en": [
+					"Ver1.0: ",
+					"   fix: 1. fix some bug",
+					"        2. change bootloader error",
+					"",
+					"   add: 1. add log save model",
+					"        2. restory search function"
+				],
+				"n_fr": "---- 法文",
+				"lang_fr": [],
+				"n_es": "---- 西班牙文",
+				"lang_es": [],
+				"n_de": "---- 德文",
+				"lang_de": [],
+				"n_it": "---- 意大利文",
+				"lang_it": [],
+				"n_ru": "---- 俄文",
+				"lang_ru": [],
+				"n_pt": "---- 葡萄牙文",
+				"lang_pt": [],
+				"n_ar": "---- 阿拉伯文",
+				"lang_ar": []
+			},
+			"mandatory": true
+		},
+		"osx": {
+			"open_url": "",
+			"latest_version": "1.0",
+			"download_url": "https://raw.githubusercontent.com/alex_spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+			"changelog": "This is an example changelog for Mac OS X. Go on...",
+			"mandatory": true
+		},
+		"linux": {
+			"open_url": "",
+			"latest_version": "1.0",
+			"download_url": "https://raw.githubusercontent.com/alex_spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+			"changelog": "This is an example changelog for Linux. Go on...",
+			"mandatory": true
+		},
+		"ios": {
+			"open_url": "",
+			"latest_version": "1.0",
+			"download_url": "https://raw.githubusercontent.com/alex_spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+			"changelog": "This is an example changelog for iOS. Go on...",
+			"mandatory": true
+		},
+		"android": {
+			"open_url": "",
+			"latest_version": "1.0",
+			"download_url": "https://raw.githubusercontent.com/alex_spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+			"changelog": "This is an example changelog for Android. Go on...",
+			"mandatory": true
+		}
+	}
 }
